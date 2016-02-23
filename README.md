@@ -13,9 +13,9 @@ http://www.codeskulptor.org/#poc_2048_template.py<br>
 - graphical user interface "GUI class" provided by instructors and modified by TG (add game instruction)<br>
 
 <p>
-!!!! NOTE !!!!
-This is PYTHON code written to work in codeskulptor, w'll work in PYTHON 2.X after some changes
-Code from text file must be copied and paste into codeskulptor editor: http://www.codeskulptor.org/
+!!!! NOTE !!!!<br>
+This is PYTHON code written to work in codeskulptor, w'll work in PYTHON 2.X after some changes<br>
+Code from text file must be copied and paste into codeskulptor editor: http://www.codeskulptor.org/<br>
 popup windows must be enabled
 </p>
 
@@ -40,16 +40,15 @@ move, and you cannot make that move on the current turn.
 If there are no free tiles on the grid, the game ends.
 </p>
 
-<h3>2048 - HOW TO PLAY?</h3>
+<h4>2048 - HOW TO PLAY?</h4>
 
-- enable pop-up windows!!
 - use arrows to slide tiles
 - hit 'New Game' button to reset Game
 - hit 'How to Play' button to see Game instruction
-- hit 'Back to Game' button to hide Game instruction
+- hit 'Back to Game' button to hide Game instruction<br>
 
-- change grid size
-'2' <= HEIGHT, WIDTH <= '10' # not tested above '10'
+- change grid size<br>
+'2' <= HEIGHT, WIDTH <= '10' # not tested above '10'<br>
 
 -Hit PLAY icon to Start
 (left top corner)
