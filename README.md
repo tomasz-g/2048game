@@ -48,7 +48,7 @@ If there are no free tiles on the grid, the game ends.
 - hit 'Back to Game' button to hide Game instruction<br>
 
 - change grid size<br>
+change value of HEIGHT and/or WIDTH variable in the code<br>
 '2' <= HEIGHT, WIDTH <= '10' # not tested above '10'<br>
 
--Hit PLAY icon to Start
-(left top corner)
+-Hit PLAY icon to Start (left top corner)
